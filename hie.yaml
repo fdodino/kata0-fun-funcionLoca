@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "kata0-funcionLoca:lib"
+
+    - path: "./test"
+      component: "kata0-funcionLoca:test:kata0-funcionLoca-test"
