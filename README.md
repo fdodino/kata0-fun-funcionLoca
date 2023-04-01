@@ -1,5 +1,7 @@
 # Kata 0 - funcionLoca
 
+![TODO badge](TODO: badge)
+
 ## Integrante
 
 - integrante1 (usuario github)
